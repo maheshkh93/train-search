@@ -414,7 +414,7 @@ function App() {
               <th className="headRow">TO</th>
               <th className="headRow">REACH AT</th>
               <th className="headRow">DISTANCE</th>
-              <th className="headRow">PPRICE</th>
+              <th className="headRow">PRICE</th>
             </tr>
           </thead>
 

@@ -289,7 +289,7 @@ function App() {
 
     let ar = end();
 
-    const journy = () => {
+    const journey = () => {
       let dist1 = 0;
       let dist2 = 0;
       let p = ar.filter((e) => {
@@ -320,7 +320,7 @@ function App() {
       return p;
     };
 
-    let arr1 = journy();
+    let arr1 = journey();
 
     setSearchStation(arr1);
     setStartSearch(true);
@@ -354,7 +354,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>FIND YOUR JOURNY</h1>
+      <h1>FIND YOUR JOURNEY</h1>
       <div className="header">
         <h3>From Station:</h3>
         <select

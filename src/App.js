@@ -438,7 +438,7 @@ function App() {
                 <tr className="headrow">No Result Found</tr>
               )
             ) : (
-              <tr className="headrow">Start Search To Find Your Journy</tr>
+              <tr className="headrow">Start Search To Find Your Journey</tr>
             )}
           </tbody>
         </table>
